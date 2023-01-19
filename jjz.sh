@@ -30,6 +30,8 @@ auth=''
 ip=''
 # 状态查询接口，进京证头部信息，对应：source
 source=''
+# 头部信息长度，进京证头部信息，对应：Content-Length（此参数只用于提交办理）
+contentLenth=''
 # 状态查询接口，这里需要填写你自己的身份证号
 idcard=''
 # 申请接口，要提交的数据，自己先抓包，然后把数据放到这里 - 这里注意一点：json里的一个参数 jjrq 的值，需要替换成：$dt_next_day，用于还剩 1 天的时候，申请新的进京证
@@ -80,7 +82,7 @@ then
 fi
 
 # 申请进京证
-apply_result=$(curl -s -XPOST $jjz_apply_api -H 'content-type:application/json;charset=utf-8;' -H 'Time: '$dt'' -H 'Size: 710' -H 'RemoteIp: '$ip'' -H 'User-Agent: okhttp-okgo/jeasonlzy' -H 'source: '$source'' -H 'authorization: '$auth'' -H 'Content-Length: 339' -H 'Host: jjz.jtgl.beijing.gov.cn' -H 'Connection: Keep-Alive' -H 'Accept-Encoding: gzip' -d $apply_data)
+apply_result=$(curl -s -XPOST $jjz_apply_api -H 'content-type:application/json;charset=utf-8;' -H 'Time: '$dt'' -H 'Size: 710' -H 'RemoteIp: '$ip'' -H 'User-Agent: okhttp-okgo/jeasonlzy' -H 'source: '$source'' -H 'authorization: '$auth'' -H 'Content-Length: '$contentLenth'' -H 'Host: jjz.jtgl.beijing.gov.cn' -H 'Connection: Keep-Alive' -H 'Accept-Encoding: gzip' -d $apply_data)
 
 sleep 3s;
 echo '办理结果：'$apply_result
