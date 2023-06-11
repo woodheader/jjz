@@ -65,6 +65,16 @@ fi
 
 # 200 情况下，检查办证状态
 expire_day=$(echo $state_result| jq .data.bzclxx[0].bzxx[0].sxsyts)
+if [ $expire_day = null ]
+then
+	expire_day=$(echo $state_result| jq .data.bzclxx[1].bzxx[0].sxsyts)
+fi
+
+current_state=$(echo $state_result| jq .data.bzclxx[0].bzxx[0].blztmc)
+if [ $current_state = null ]
+then
+	current_state=$(echo $state_result| jq .data.bzclxx[1].bzxx[0].blztmc)
+fi
 expire_day_cn=$expire_day' 天'
 current_state=$(echo $state_result| jq .data.bzclxx[0].bzxx[0].blztmc)
 current_state=`echo ${current_state//\"/}`
