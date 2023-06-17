@@ -36,5 +36,7 @@
 
 #### 公众号二维码
 ![qrcode_for_gh_464ede4fd5e2_430](https://github.com/woodheader/jjz/assets/12424760/fd4169d0-4268-4d88-b008-035f4cc36345)
+![WechatIMG1844](https://github.com/woodheader/jjz/assets/12424760/2b307106-a2d9-4a3f-b27b-9cb68360de14)
+
 
 
