@@ -31,9 +31,6 @@
 #### 办理成功截图
 <img src="https://user-images.githubusercontent.com/12424760/177170494-e2f05493-224f-4030-ba14-1376323c269f.png" height="500px"/>
 
-#### 定时执行系统截图
-<img src="https://user-images.githubusercontent.com/12424760/210518930-4c348b63-75f0-4671-8e11-596318af13d8.jpg" height="500px"/>
-
 #### 公众号二维码
 ![qrcode_for_gh_464ede4fd5e2_430](https://github.com/woodheader/jjz/assets/12424760/fd4169d0-4268-4d88-b008-035f4cc36345)
 ![WechatIMG1844](https://github.com/woodheader/jjz/assets/12424760/2b307106-a2d9-4a3f-b27b-9cb68360de14)
