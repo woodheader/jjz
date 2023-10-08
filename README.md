@@ -24,12 +24,14 @@
 - 公众号二维码图片放下面了，需要的同学自己扫码关注就行。关注公众号后，可以及时收到办证通知。
 
 #### 感谢
-- ```感谢 @守护 @雅荼 等网友赏识，目前已在定时执行系统完成部署，稳定运行中。```
+- ```感谢 @守护 @雅荼 等网友信任和使用。目前已有数十个车辆使用中```
 
 #### 小程序截图
 <img src="https://github.com/woodheader/jjz/assets/12424760/da2a2e61-c35f-493e-9ac3-106fc1298f62" height="500px"/>
 <img src="https://github.com/woodheader/jjz/assets/12424760/1122a3b2-0336-4509-beb0-a0ea57f10ebf" height="500px"/>
 <img src="https://github.com/woodheader/jjz/assets/12424760/5d8b965a-c8b3-41ee-aac8-15e5a4833ba0" height="500px"/>
+<img src="https://github.com/woodheader/jjz/assets/12424760/86d2ed55-aa5d-4a61-8df0-9585727e83e0" height="500px"/>
+
 
 #### 公众号二维码
 ![qrcode_for_gh_464ede4fd5e2_430](https://github.com/woodheader/jjz/assets/12424760/fd4169d0-4268-4d88-b008-035f4cc36345)
