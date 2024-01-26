@@ -20,15 +20,16 @@
 - 公众号二维码图片放下面了，需要的同学自己扫码关注就行。
 
 #### 部分截图
-<img src="https://github.com/woodheader/jjz/assets/12424760/589375d2-e0c5-4760-96a1-179747c7be42" height="430px"/>
+<img src="https://github.com/woodheader/jjz/assets/12424760/c3db6695-585e-4a36-b873-41aa1625e4db" height="430px"/>
 <img src="https://github.com/woodheader/jjz/assets/12424760/1122a3b2-0336-4509-beb0-a0ea57f10ebf" height="430px"/>
 <img src="https://github.com/woodheader/jjz/assets/12424760/41623c76-6b6c-4795-a828-9f8c9fd4329a" height="430px"/>
-<img src="https://github.com/woodheader/jjz/assets/12424760/5fbac54a-65b0-40c3-94e6-38beebbd604a" height="430px"/>
-<img src="https://github.com/woodheader/jjz/assets/12424760/86d2ed55-aa5d-4a61-8df0-9585727e83e0" height="430px"/>
+<img src="https://github.com/woodheader/jjz/assets/12424760/5246b2c9-4196-463e-90e2-4a37d791efd3" height="430px"/>
+<img src="https://github.com/woodheader/jjz/assets/12424760/7ccf252c-d644-4d9d-bef6-2dac499dcbd4" height="430px"/>
 
 
 #### 公众号二维码
-![qrcode_for_gh_464ede4fd5e2_430](https://github.com/woodheader/jjz/assets/12424760/fd4169d0-4268-4d88-b008-035f4cc36345)
+![qrcode_for_gh_464ede4fd5e2_430](https://github.com/woodheader/jjz/assets/12424760/e532bb04-fd75-4b9c-a37a-f480d63cd3b5)
+
 
 
 
